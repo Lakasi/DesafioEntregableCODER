@@ -1,0 +1,18 @@
+[
+  {
+    "title": "titulo prueba",
+    "description": "description prueba",
+    "price": 250,
+    "thumbnail": "imagen",
+    "stock": 25,
+    "code": "b5636446-89d6-4c3f-a580-64eed3d6a6aa"
+  },
+  {
+    "title": "titulo prueba",
+    "description": "description prueba",
+    "price": 250,
+    "thumbnail": "imagen",
+    "stock": 25,
+    "code": "40d19d73-399c-45b1-845a-ceef9f17a31b"
+  }
+]
