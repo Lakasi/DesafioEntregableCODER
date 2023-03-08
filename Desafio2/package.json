@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "name": "Desafio2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ProductManager.js",
+  "scripts": {
+    "start": "node .",
+    "test": "nodemon -e 'html,js' ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
